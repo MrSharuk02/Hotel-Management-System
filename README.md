@@ -1,7 +1,5 @@
 # Hotel Management System
 
-![Hotel Management System]([(https://unsplash.com/photos/blue-body-of-water-in-front-of-building-near-trees-during-nighttime-M7GddPqJowg)])
-
 ## Project Overview
 
 The Hotel Management System is designed to manage various aspects of hotel operations, including customer management, room management, booking processes, staff management, payment handling, and service offerings. This system ensures efficient and smooth operations by providing an integrated platform for managing hotel-related data and transactions.
