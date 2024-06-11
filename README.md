@@ -1,6 +1,6 @@
 # Hotel Management System
 
-![Hotel Management System](path/to/your/image.png)
+![Hotel Management System]([(https://unsplash.com/photos/blue-body-of-water-in-front-of-building-near-trees-during-nighttime-M7GddPqJowg)])
 
 ## Project Overview
 
